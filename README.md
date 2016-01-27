@@ -12,13 +12,10 @@ Sharing is caring.
 
 ## What is included?
 
+### PSD files
+
 We included all major sections of the website as Photoshop .psd files.
 
-+ Rijeka.hr – City Council.psd
-+ Rijeka.hr – Councillors.psd
-+ Rijeka.hr – Department.psd
-+ Rijeka.hr – Districts.psd
-+ Rijeka.hr – Homepage.psd
-+ Rijeka.hr – Mayor.psd
-+ Rijeka.hr – Projects.psd
-+ Rijeka.hr – Topics.psd
+### PNG files
+
+We included previews of all templates that were designed in Photoshop for your easy viewing.
